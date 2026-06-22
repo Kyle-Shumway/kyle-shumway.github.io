@@ -337,7 +337,7 @@
         
         // Observe elements for animation
         const elementsToAnimate = document.querySelectorAll(
-            '.service-card, .project-card, .benefit-item, .section__title'
+            '.service-card, .project-showcase, .benefit-item, .section__title'
         );
         
         elementsToAnimate.forEach(el => {
